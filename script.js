@@ -1,0 +1,1 @@
+console.log('Mally Sport site loaded successfully');
